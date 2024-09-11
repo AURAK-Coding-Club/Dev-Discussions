@@ -1,3 +1,4 @@
 *.tex
 *.bib
 graphics/*
+*.synctex.gz
